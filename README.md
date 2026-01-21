@@ -17,7 +17,7 @@ Bu repo, Udemy'deki **"Sıfırdan Zirveye: IT, Network & Etik Hacker | 110+ Saat
 - **`09-firewall-pfsense-sophos`** – pfSense ve Sophos firewall temel konfigürasyon ve VPN senaryoları. *(Firewall & VPN)*
 - **`10-ccna`** – Cisco Packet Tracer lab çalışmaları ve CCNA notları. *(Cisco Networking)*
 - **`11-etik-hacker`** – Yalnızca yasal/etik perspektiften zafiyet, tespit ve log analizi notları. *(Penetration Testing / Ethical Hacking)*
-- **`12-ai-bonus`** – AI araçlarını IT & siber güvenlik öğreniminde kullanma notları. *(AI in Cybersecurity)*
+
 
 ---
 > ⚠️ **Yasal Uyarı:** *Tüm çalışmalar yalnızca eğitim ve **lab ortamlarında** yapılmıştır. Gerçek sistemlere izinsiz erişim amaçlanmamaktadır.*
